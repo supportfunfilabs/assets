@@ -1,0 +1,11 @@
+{
+  "name": "Fake SOL",
+  "type": "SPL",
+  "symbol": "SOL",
+  "decimals": 9,
+  "website": "https://solscan.io/token/Ag7XCgPqzrqEo7kaNjA4UXfw9buSwBQooy3uh46vfuFe",
+  "description": "Native SOL is not an SPL token. This token impersonates SOL and is used in scam campaigns.",
+  "explorer": "https://solscan.io/token/Ag7XCgPqzrqEo7kaNjA4UXfw9buSwBQooy3uh46vfuFe",
+  "status": "spam",
+  "id": "Ag7XCgPqzrqEo7kaNjA4UXfw9buSwBQooy3uh46vfuFe"
+}
