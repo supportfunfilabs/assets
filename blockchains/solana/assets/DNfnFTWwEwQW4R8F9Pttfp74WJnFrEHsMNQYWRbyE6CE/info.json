@@ -1,0 +1,11 @@
+{
+  "name": "Fake USDT",
+  "type": "SPL",
+  "symbol": "USDT",
+  "decimals": 6,
+  "website": "https://solscan.io/token/DNfnFTWwEwQW4R8F9Pttfp74WJnFrEHsMNQYWRbyE6CE",
+  "description": "Impersonation of Tether USDT on Solana. Not related to Tether.",
+  "explorer": "https://solscan.io/token/DNfnFTWwEwQW4R8F9Pttfp74WJnFrEHsMNQYWRbyE6CE",
+  "status": "spam",
+  "id": "DNfnFTWwEwQW4R8F9Pttfp74WJnFrEHsMNQYWRbyE6CE"
+}
