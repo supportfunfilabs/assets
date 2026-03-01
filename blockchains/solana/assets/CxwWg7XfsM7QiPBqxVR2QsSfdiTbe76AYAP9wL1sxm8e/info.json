@@ -1,0 +1,11 @@
+{
+  "name": "Fake EURC",
+  "type": "SPL",
+  "symbol": "EURC",
+  "decimals": 6,
+  "website": "https://solscan.io/token/CxwWg7XfsM7QiPBqxVR2QsSfdiTbe76AYAP9wL1sxm8e",
+  "description": "Impersonation of Circle EURC on Solana. Not issued by Circle.",
+  "explorer": "https://solscan.io/token/CxwWg7XfsM7QiPBqxVR2QsSfdiTbe76AYAP9wL1sxm8e",
+  "status": "spam",
+  "id": "CxwWg7XfsM7QiPBqxVR2QsSfdiTbe76AYAP9wL1sxm8e"
+}
